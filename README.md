@@ -3,7 +3,7 @@
 I'm Vitalii Morskyi, 2nd year student at Rzeszów University of Technology, Poland. 
 
 - 🔭 I’m currently working on university timetabling problem
-- 🌱 I’m currently learning usupervised machine learning techniques
+- 🌱 I’m currently learning unsupervised machine learning techniques
 - 📫 How to reach me: 
     - email: morskyi.vitalii@outlook.com
     - Telegram: @FrightenedFox
