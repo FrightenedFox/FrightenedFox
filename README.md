@@ -5,7 +5,7 @@ I'm Vitalii Morskyi, 2nd year student at Rzeszów University of Technology, Pola
 - 🔭 I’m currently working on university timetabling problem
 - 🌱 I’m currently learning how to make my own CUDA kernels
 - 📫 How to reach me: 
-    - email: morskyi.vitalii@outlook.com
+    - email: vitalii@morskyi.dev
     - Telegram: [@FrightenedFox](https://t.me/FrightenedFox)
     - Twitter: [@Frightened_Fox](https://twitter.com/Frightened_Fox)
     - Instagram: [@frightened.fox](https://www.instagram.com/frightened.fox/)
