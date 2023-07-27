@@ -10,7 +10,7 @@ I'm Vitalii Morskyi, 2nd year student at Rzeszów University of Technology, Pola
     - Twitter: [@Frightened_Fox](https://twitter.com/Frightened_Fox)
     - Instagram: [@frightened.fox](https://www.instagram.com/frightened.fox/)
     - [Facebook](https://www.facebook.com/MorskyiVitalii)
-    - [LinedIn](https://www.linkedin.com/in/morskyifox/)
+    - [LinedIn](https://www.linkedin.com/in/vitaliimorskyi/)
 - ⚡ Fun fact: I adore movie editing
 
 <!--
