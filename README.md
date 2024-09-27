@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Vitalii Morskyi, 2nd year student at Rzeszów University of Technology, Poland. 
+I'm Vitalii Morskyi, 4th year student at Rzeszów University of Technology, Poland. 
 
-- 🔭 I’m currently working on university timetabling problem
-- 🌱 I’m currently learning how to make my own CUDA kernels
+- 🔭 I’m currently working on _loading_
+- 🌱 I’m currently learning how to _loading_
 - 📫 How to reach me: 
     - email: vitalii@morskyi.dev
     - Telegram: [@FrightenedFox](https://t.me/FrightenedFox)
